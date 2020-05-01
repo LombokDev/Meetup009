@@ -3,7 +3,7 @@
 ## Lokasi
 Online Meetup
 ## Link Registrasi
-Dibuka terbatas untuk 100 peserta: https://bit.ly/LombokDevMeetup009
+Dibuka untuk peserta: https://bit.ly/LombokDevMeetup009
 
 ## Konsep
 Lightning Talk dan Tech Talk
