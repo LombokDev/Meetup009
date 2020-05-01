@@ -8,16 +8,14 @@ Dibuka terbatas untuk 100 peserta: https://bit.ly/LombokDevMeetup009
 ## Konsep
 Lightning Talk dan Tech Talk
 ## Susunan acara
-| WAKTU KEGIATAN| PEMBICARA                | AGENDA                                                                   |
-|---------------|--------------------------|--------------------------------------------------------------------------| 
-| 02.30-03.30   | Peserta                  | Persiapan                                             |
-| 03.30-03.20   | Ilham Bintang           | Lightning talk - Semantic Search dengan ElasticSearch                       |
-| 03.20-03.50   | Nasrul Alawy             | Tech Talk - Backend Buru-Buru ? di RoR in Aja                          |
-| 03.50-18.30   | Peserta                  | Istirahat, Buka Puasa, Tarawih                                      |
-| 18.30-19.00   | Hayi Nukman | Tech Talk - Kotlin for Backend Development: Super easy way to Create REST API using Kotlin.                                             |
-| 19.00-19.30   | Herpiko Dwi Aguno        | Tech talk - Infrastruktur Kunci Publik                                                |
-| 19.30-22.00   | Rahmat Wahyu Hadi             | common attack in modern web apps               |
-| 22.00-22.30   | Pahrizal Ma'rup  | TechTalk - DIY IoT Devices |
+| TANGGAL | WAKTU KEGIATAN| PEMBICARA                | AGENDA                                                                   |
+|-----|---------------|--------------------------|--------------------------------------------------------------------------| 
+| 04/05/2020| 16.00-SELESAI   | Ilham Bintang           | Lightning talk - Semantic Search dengan ElasticSearch                       |
+| 05/05/2020| 16.00-SELESAI   | Nasrul Alawy             | Tech Talk - Backend Buru-Buru ? di RoR in Aja                          |
+| 06/05/2020| 16.00-SELESAI   | Hayi Nukman | Tech Talk - Kotlin for Backend Development: Super easy way to Create REST API using Kotlin.                                             |
+| 07/05/2020| 16.00-SELESAI   | Herpiko Dwi Aguno        | Tech talk - Infrastruktur Kunci Publik                                                |
+| 08/05/2020| 16.00-SELESAI   | Rahmat Wahyu Hadi             | common attack in modern web apps               |
+| 09/05/2020| 16.00-SELESAI   | Pahrizal Ma'rup  | TechTalk - DIY IoT Devices |
 
 
 ## Aturan
