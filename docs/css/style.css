@@ -1,0 +1,109 @@
+@font-face {
+  font-family: 'Padauk';
+  src: url('../fonts/Padauk-Bold.ttf');
+}
+
+@font-face {
+  font-family: 'HFF Low Sun';
+  src: url('../fonts/HFF Low Sun.otf');
+}
+
+.lombokdev {
+  font-family: 'Padauk';
+}
+
+.meetup {
+  font-family: 'HFF Low Sun';
+  font-size: 6.5em !important;
+  transform:scaleY(1.5);
+}
+
+.meetup .subtitle {
+  font-size: 0.5em;
+}
+
+#section-1 {
+  background: linear-gradient(315deg, rgb(69, 187, 255), rgba(69, 112, 255, 0.3)),
+  url("https://live.staticflickr.com/7820/47078593062_3e509ebcd8_k.jpg");
+}
+
+#section-1 a {
+  color: rgba(255, 255, 255, 0.9)
+}
+
+#section-1 h2 {
+  color: white;
+}
+
+#section-2 {
+  background: linear-gradient(135deg, transparent, rgba(255, 115, 0, .8)),
+  url("https://farm5.staticflickr.com/4730/24270791257_bfda2639dc_o_d.jpg");
+}
+
+
+#section-4 {
+  background: linear-gradient(150deg, rgba(0,0,0,.8), rgba(0,0,0,.4), rgba(0,0,0,.6)), url("https://farm5.staticflickr.com/4689/39131198731_3b96547671_o_d.jpg");
+  /* Background image is centered vertically and horizontally at all times */
+  background-position: center center;
+  
+  /* Background image doesn't tile */
+  background-repeat: no-repeat;
+  
+  /* Background image is fixed in the viewport so that it doesn't move when 
+     the content's height is greater than the image's height */
+  background-attachment: fixed;
+  
+  /* This is what makes the background image rescale based
+     on the container's size */
+  background-size: cover;
+}
+
+.map {
+  opacity: .8;
+  transition: 0.2s ease-in;
+}
+
+.map:hover {
+  opacity: 1;
+  transition: 0.2s ease-in;
+}
+
+#section-2 h1 {
+  margin-top: 10px;
+  font-family: 'Padauk';
+  line-height: 50%;
+}
+
+#section-2 p { 
+  font-size: 1.7em;
+}
+
+
+.rounded-circle {
+  width: 150px;
+  height: 150px;
+  margin-top: 30px;
+}
+
+#section-3 img {
+  vertical-align: middle;
+}
+
+.col-sm-3 h3 {
+  margin-top: 15px;
+  font-size: 18px;
+  text-align: center;
+}
+
+.col-sm-3 p {
+  font-size: 14px;
+  text-align: center;
+}
+
+.keterangan {
+  color: black;
+}
+
+.materi {
+  color: gray;
+}
