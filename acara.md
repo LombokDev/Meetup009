@@ -1,5 +1,5 @@
 ## Waktu
-10 Mei 2020
+4 - 9 Mei 2020
 ## Lokasi
 Online Meetup
 ## Link Registrasi
